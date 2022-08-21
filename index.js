@@ -1,3 +1,4 @@
+// Copyright (c) 2022, TRRXITTE Int., incorporate
 // Copyright (c) 2018-2019, TurtlePay Developers
 //
 // Please see the included LICENSE file for more information.
@@ -23,7 +24,7 @@ const env = {
   },
   node: {
     host: process.env.NODE_HOST || 'localhost',
-    port: process.env.NODE_PORT || 11898
+    port: process.env.NODE_PORT || 14486
   },
   storeRawTransactionExtra: process.env.STORE_RAW_TRANSACTION_EXTRA || false
 }

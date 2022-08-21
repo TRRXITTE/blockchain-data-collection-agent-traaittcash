@@ -1,15 +1,15 @@
-# TurtlePay® Blockchain Data Collection Agent
+# traaittCASH® Blockchain Data Collection Agent
 ![Version](https://img.shields.io/badge/version-0.1.4-blue.svg?cacheSeconds=2592000) ![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent#readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent/graphs/commit-activity) [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-yellow.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/TurtlePay.svg?style=social)](https://twitter.com/TurtlePay)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/TurtlePay/blockchain-data-collection-agent.svg?branch=master)](https://travis-ci.org/TurtlePay/blockchain-data-collection-agent) [![Build status](https://ci.appveyor.com/api/projects/status/github/TurtlePay/blockchain-data-collection-agent?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-data-collection-agent/branch/master)
 
 
-> Collects TurtleCoin® blockchain data into a SQL backend that serving and using the data a breeze.
+> Collects traaittCASH® blockchain data into a SQL backend that serving and using the data a breeze.
 
 ## Prerequisites
 
-- TurtleCoin® >= 0.12.0
+- traaittCASH® >= 1.4.4
 - node >=6
 - MariaDB/MySQL with InnoDB support
 
@@ -54,7 +54,7 @@ export MYSQL_USERNAME=yourdbusername
 export MYSQL_PASSWORD=yourdbpassword
 export MYSQL_DATABASE=yourdbname
 export NODE_HOST=localhost
-export NODE_PORT=11898
+export NODE_PORT=14486
 npm start
 ```
 
@@ -66,16 +66,16 @@ npm test
 
 ## Author
 
-👤 **TurtlePay® Development Team**
+👤 **TRRXITTE Int., incorporate**
 
-* Twitter: [@TurtlePay](https://twitter.com/TurtlePay)
-* Github: [@TurtlePay](https://github.com/TurtlePay)
+* Twitter: [@TRRXITTE](https://twitter.com/TRRXITTE)
+* Github: [@TRRXITTE](https://github.com/TRRXITTE)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/TurtlePay/blockchain-data-collection-agent/issues).
+Feel free to check [issues page](https://github.com/TRRXITTE/blockchain-data-collection-agent-traaittcash/issues).
 
 ## Show your support
 
@@ -83,7 +83,7 @@ Give a ⭐️ if this project helped you!
 
 
 ## 📝 License
-
+Copyright © 2022 [TRRXITTE Int., incorporate](https://github.com/TRRXITTE).
 Copyright © 2018-2019 [TurtlePay® Development Team](https://github.com/TurtlePay).
 
 This project is [AGPL-3.0](https://github.com/TurtlePay/blockchain-data-collection-agent/blob/master/LICENSE) licensed.

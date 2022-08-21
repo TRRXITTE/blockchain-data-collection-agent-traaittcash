@@ -1,7 +1,7 @@
 {
-  "name": "turtlepay-bdca",
+  "name": "traaittcash-bdca",
   "version": "0.1.9",
-  "description": "TurtlePay: Blockchain Data Collection Agent",
+  "description": "traaittCASH: Blockchain Data Collection Agent",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,28 +9,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurtlePay/blockchain-data-collection-agent.git"
+    "url": "git+https://github.com/TRRXITTE/blockchain-data-collection-agent-traaittcash.git"
   },
   "keywords": [
-    "TurtlePay"
+    "traaittCASH"
   ],
-  "author": "TurtlePay Development Team",
+  "author": "TRRXITTE Int., incorporate",
   "license": "AGPL-3.0",
   "engines": {
     "node": ">=6"
   },
   "engineStrict": true,
   "bugs": {
-    "url": "https://github.com/TurtlePay/blockchain-data-collection-agent/issues"
+    "url": "https://github.com/TRRXITTE/blockchain-data-collection-agent-traaittcash/issues"
   },
-  "homepage": "https://github.com/TurtlePay/blockchain-data-collection-agent#readme",
+  "homepage": "https://github.com/TRRXITTE/blockchain-data-collection-agent-traaittcash#readme",
   "dependencies": {
     "big-integer": "^1.6.48",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "mysql": "^2.18.1",
     "node-metronome": "0.0.2",
-    "turtlecoin-rpc": "^2.0.5"
+    "@trrxitte/traaittcash-rpc": "^2.0.3"
   },
   "devDependencies": {
     "standard": "^13.0.1"
